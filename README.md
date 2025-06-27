@@ -77,6 +77,6 @@ Setup instructions:
 5. Configure database connection for logging
 6. Test individual nodes before full automation
 
-This workflow creates a completely hands-off Amazon FBA business that automatically sources products, establishes supplier relationships, manages inventory processing, and optimizes pricing - all while providing full visibility into operations.
+
 
 The automation is designed to run weekly but can be adjusted based on your business needs. Each component includes error handling and fallback options to ensure reliable operation. 
